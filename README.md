@@ -98,7 +98,7 @@ private void txtAngka1FocusGained(java.awt.event.FocusEvent evt) {
 ---
 
 ## Hasil Gambar Project Ketika di Run  
-![Screenshot Aplikasi](https://github.com/[username]/Latihan1_AplikasiPertambahanDuaAngka/blob/main/screenshot.png)  
+![Screenshot Aplikasi](https://github.com/Irfazi/PerhitunganDuaAngka/blob/main/Screenshot%202024-11-17%20160848.png)  
 
 ---
 
